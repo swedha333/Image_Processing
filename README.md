@@ -17,7 +17,7 @@ Display the image
 ### Step4:
 Set the pixels to display the ROI 
 ### Step5:
-Perform bit wise conjunction of the two arrays 
+Perform bit wise conjunction of the two arrays  using bitwise_and 
 ### Step6:
 Display the segmented ROI from an image.
 ## II)Perform handwritting detection in an image
